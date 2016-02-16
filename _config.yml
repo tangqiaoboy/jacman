@@ -31,8 +31,8 @@ rss: /atom.xml ## RSS address.
 imglogo:
   enable: false             ## display image logo true/false.
   src: img/logo.png        ## `.svg` and `.png` are recommended,please put image into the theme folder `/jacman/source/img`.
-favicon: img/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/jacman/source/img`.     
-apple_icon: img/jacman.jpg ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
+favicon: img/favicon.png   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/jacman/source/img`.     
+apple_icon: ## img/jacman.jpg ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
 author_img: ## img/author.jpg ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
 banner_img: ## img/banner.jpg ## size:1920px*200px+. Banner Picture
 ### Theme Color 
@@ -45,8 +45,8 @@ highlight_theme: night
 
 #### index post is expanding or not 
 index:
-  expand: true           ## default is unexpanding,so you can only see the short description of each post.
-  excerpt_link: Read More  
+  expand: false           ## default is unexpanding,so you can only see the short description of each post.
+  excerpt_link: 阅读全文
 
 close_aside: false  #close sidebar in post page if true
 mathjax: false      #enable mathjax if true
