@@ -13,16 +13,13 @@ menu:
 
 #### Widgets
 widgets: 
-## - github-card
 - category
-## - tag
-## - links
-## - douban
 - rss
+- weixin
 ## - weibo
+## - tag
+## - github-card
   ## provide eight widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo
-
-
 
 #### RSS 
 rss: /atom.xml ## RSS address.
