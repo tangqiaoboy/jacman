@@ -1,8 +1,8 @@
 ##### Menu
 menu:
-  Home: /
-  Archives: /archives
-  About: /about
+  首页: /
+  归档: /archives
+  关于: /about
 
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
@@ -12,12 +12,13 @@ menu:
 ## ---
 
 #### Widgets
-widgets: 
-- category
+widgets:
+- sponsor 
 - rss
 - weixin
 ## - weibo
-## - tag
+- tag
+- category
 ## - github-card
   ## provide eight widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo
 
