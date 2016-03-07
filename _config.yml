@@ -14,11 +14,11 @@ menu:
 #### Widgets
 widgets:
 - sponsor 
-- rss
-- weixin
-## - weibo
-- tag
 - category
+- weixin
+- rss
+## - weibo
+## - tag
 ## - github-card
   ## provide eight widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo
 
